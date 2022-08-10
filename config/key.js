@@ -1,3 +1,3 @@
 module.exports = {
-  MongoURI: "mongodb://127.0.0.1:27017/nodejs-login-system",
+  MongoURI: "mongodb+srv://shivang:shivang123@cluster0.fxmbapg.mongodb.net/authDB?retryWrites=true&w=majority",
 };
